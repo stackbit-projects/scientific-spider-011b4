@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: veamor que sale
-    subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+    subtitle: espero no cagarla por que no se mucho
     actions:
       - label: Contact Me
         url: /contact
